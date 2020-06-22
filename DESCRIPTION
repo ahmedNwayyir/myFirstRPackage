@@ -1,16 +1,16 @@
 Package: myFirstRPackage
-Title: What the Package Does (One Line, Title Case)
+Title: First R Package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Ahmed",
+           family = "Nwayyir",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "nwayyir.ahmed@gmail.com")
+Description: Experimental package to learn how to create packages in R and upload them to github.
+	     It contains an implementation of Euclidean & Dijkstra algorithms.
+License: MIT License
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
+Suggests: testthat
