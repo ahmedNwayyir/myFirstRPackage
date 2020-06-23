@@ -1,3 +1,2 @@
-language: R
+language: r
 cache: packages
-wornings_are_errors:false
