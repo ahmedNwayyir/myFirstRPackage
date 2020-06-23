@@ -12,7 +12,7 @@ euclidean(a, b)
 \item{b}{A number.}
 }
 \value{
-the largest number that divides \code{a} and \code{b}.
+The largest number that divides \code{a} and \code{b}.
 }
 \description{
 Computes the greatest common divisor (GCD) of two integers (numbers),
@@ -23,5 +23,5 @@ euclidean(100, 1000)
 
 }
 \references{
-\href{https://en.wikipedia.org/wiki/Euclidean_algorithm}{https://en.wikipedia.org/wiki/Dijkstra\\%27s_algorithm}
+\href{https://en.wikipedia.org/wiki/Euclidean_algorithm}{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 }
