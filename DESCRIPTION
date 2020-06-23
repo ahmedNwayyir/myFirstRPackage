@@ -1,6 +1,6 @@
 Package: myFirstRPackage
 Title: First R Package
-Version: 0.1
+Version: 1.0.0
 Authors@R: person(given = "Ahmed", family = "Nwayyir", role = c("aut", "cre"), email = "nwayyir.ahmed@gmail.com")
 Description: Experimental package to learn how to create packages in R and upload them to github. It contains an implementation of Euclidean & Dijkstra algorithms.
 License: MIT + file LICENSE
